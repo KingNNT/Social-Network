@@ -1,0 +1,28 @@
+echo . > results.txt
+echo common_neighbors >> results
+python link_prediction.py common_neighbors ./data/facebook_combined.txt >> results
+
+echo . >> results
+echo jaccard >> results
+python link_prediction.py jaccard ./data/facebook_combined.txt >> results
+
+echo . >> results
+echo adamic_adar >> results
+python link_prediction.py adamic_adar ./data/facebook_combined.txt >> results
+
+echo . >> results
+echo preferential_attachment >> results
+python link_prediction.py preferential_attachment ./data/facebook_combined.txt >> results
+
+
+echo . >> results
+echo katz >> results
+python link_prediction.py katz ./data/facebook_combined.txt >> results
+
+echo . >> results
+echo friendtns >> results
+python link_prediction.py friendtns ./data/facebook_combined.txt >> results
+
+echo . >> results
+echo Successful ! - DevKingNNT >> results
+echo
