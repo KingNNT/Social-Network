@@ -8,5 +8,4 @@
 - Chạy `pip install python_igraph-0.7.1.post6-cp27-cp27m-win_amd64.whl`
 - Lại đợi nó cài xong
 - Chạy tiếp `python -m pip install -U matplotlib`
-- Tiếp tục đợi nó cài xong là OK ;v
- #### Thank for watching
+- Tiếp tục đợi nó cài xong là OK.

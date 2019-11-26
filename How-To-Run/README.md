@@ -7,5 +7,3 @@
 - Đợi khoảng 1-2h ...
 - Mở thư mục chưa file `link_prediction.py` sẽ có file results, mở file đó bằng notepad
 - Kiểm tra dòng cuối cùng là `Successful ! - DevKingNNT` thì OK rồi đó
-
-#### Thank for watching
