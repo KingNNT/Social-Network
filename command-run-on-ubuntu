@@ -1,4 +1,4 @@
-date >> results
+date > results
 echo >> results
 echo common_neighbors >> results
 python link_prediction.py common_neighbors ./data/facebook_combined.txt >> results
@@ -24,6 +24,7 @@ echo >> results
 echo friendtns >> results
 python link_prediction.py friendtns ./data/facebook_combined.txt >> results
 echo >> results
+
 echo Successful ! - DevKingNNT >> results
 echo Time : >> results
 date >> results
