@@ -9,4 +9,4 @@
 - Lại đợi nó cài xong
 - Chạy tiếp `python -m pip install -U matplotlib`
 - Tiếp tục đợi nó cài xong là OK ;v
- ## Thank for watching
+ #### Thank for watching
