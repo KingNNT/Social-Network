@@ -1,4 +1,4 @@
-# Hướng dẫn import module cho python 2
+# Hướng dẫn import module cho python 2 trên Windows OS
 
 - Đầu tiên down 2 modul [python-igraph](https://github.com/KingNNT/Social-Network/blob/master/Install-Module/python_igraph-0.7.1.post6-cp27-cp27m-win_amd64.whl) và [numpy-python](https://github.com/KingNNT/Social-Network/blob/master/Install-Module/numpy-1.16.5+mkl-cp27-cp27m-win_amd64.whl) về
 - Copy vào thư mục cài đặt của python 2. Mặc định là `C:\python27`
