@@ -1,7 +1,7 @@
 # Social-Network
 [Source Repositories](https://github.com/pranavkulkarni/Link_prediction_social_network)
 #### Một vài lưu ý:
-* Khi cài python cài đúng phiên bản 2.7.17
+* Khi cài python cài đúng phiên bản 2.7.17 [Download](https://www.python.org/downloads/release/python-2717/)
   * [Mở CMD](https://quantrimang.com/thu-thuat-khoi-chay-command-prompt-nhanh-chong-tren-windows-10-118680) chạy thử lệnh `python -V` nếu hiện lên là `python 2.7.17` là được.
   * Tiếp tục chạy lệnh `pip -V` nếu hiện ra version của nó thì OK rồi
   * Nếu 1 trong 2 lệnh trên chạy mà báo lỗi thì cài path cho python. [Hướng dẫn tại đây](https://viettuts.vn/python/cai-dat-python)
